@@ -6,7 +6,7 @@ Practice using polymorphism in Java by creating a program that calculates and di
 
 #### Description:
 
-You should create a set of classes representing geometric shapes (e.g., Circle, Rectangle, Triangle) and their areas. Each shape class should have a method called calculateArea() that calculates and returns the area of that specific shape. Create a class called ShapeCalculator that demonstrates the use of polymorphism to calculate and display the areas of various shapes.
+You should create a set of classes representing geometric shapes (e.g., Circle,Rectangle, Triangle) and their areas. Each shape class should have a method called calculateArea() that calculates and returns the area of that specific shape. Create a class called ShapeCalculator that demonstrates the use of polymorphism to calculate and display the areas of various shapes.
 
 #### Guidelines:
 
